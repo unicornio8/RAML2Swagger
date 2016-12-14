@@ -94,9 +94,9 @@
 		</dependency>
 		
 		<dependency>
-			<groupId>org.raml</groupId>
+			<groupId>com.sap.cloud.yaas.raml-parser</groupId>
 			<artifactId>raml-parser</artifactId>
-			<version>0.9-SNAPSHOT</version>
+			<version>1.0.4</version>
 		</dependency>		
 <!-- 		
 		<dependency>
